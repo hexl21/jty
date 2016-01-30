@@ -1,1 +1,1 @@
-# jty spring+springmvc+hibernate+shiro+quartz+maven+easyui
+#  spring+springmvc+hibernate+shiro+quartz+maven+easyui
